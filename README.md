@@ -30,7 +30,7 @@ I studied Python by myself, and have been studying Ruby, HTML, CSS and JavaScrip
 
 #### Social Media Management
 
-I used to make YouTube videos so I know how to use YouTube creator studio, and now I am a part of the YouTube number 1 AI Safety channel <a href="www.robertskmiles.com">Robert Miles AI</a>. I do not make videos but I am a Social Media Manager and I keep track of media performance and post to advertise the videos in order to attract audience and for high performance.
+I used to make YouTube videos so I know how to use YouTube creator studio, and now I am a part of the YouTube number 1 AI Safety channel <a href="https://www.youtube.com/c/robertmilesai">Robert Miles AI</a>. I do not make videos but I am a Social Media Manager and I keep track of media performance and post to advertise the videos in order to attract audience and for high performance.
 
 
 ## Education
