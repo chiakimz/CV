@@ -61,6 +61,6 @@ I used to make YouTube videos so I know how to use YouTube creator studio, and n
 *Chef De Partie*  
 **Paul UK** (October 2016 to January 2017)   
 *Pastry Chef*  
-They might seem irrelavant, but...this is where I learned so much about worknig as a team and how to communicate efficiently and keep hermony.
+(...They might seem irrelavant, but this is where I learned so much about worknig as a team and how to communicate efficiently and keep hermony.)
 ## Hobbies
 Baking and Cooking (obviously), Cycling, Swimming, Singing, Painting, Educating myself, Spending hours on the internet (good example is: start learning how Baysian works and end up looking at percentages of eye/hair colours depending on regions)
