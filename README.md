@@ -1,66 +1,51 @@
 ## Chiaki Mizuta
 
-<a href="https://chiakimizuta.wordpress.com/">My Blog</a> || <a href="https://www.linkedin.com/in/chiaki-mizuta-664567131/">Linked In</a> || <a href="https://twitter.com/jackie7cm">Twitter</a>
+<a href="https://chiakimizuta.wordpress.com/">My Blog</a> || <a href="https://www.linkedin.com/in/chiakimz">Linked In</a> || <a href="https://twitter.com/jackie7cm">Twitter</a>
 
-I am an independent woman who don’t need no man. I came to the UK in 2016 all by myself because I fell in love with this place 8 years ago. I am a diligent and enthusiastic person who loves learning and challenging her own borders, and I am the person who makes things happen; I never hesitate to take a leadership and organise events and groups, and also keep an eye on everyone to make sure they are ok. I was once described by someone as authentic and have a spark of positive energy, as if there is a tree inside me as a core. I am a deep, logical thinker, and honesty and dedication are two of my best characteristics I can be proud of. One of my hobbies is to go to the bookshop and spend my entire afternoon reading logic quiz books. I have worked in the catering industry after my graduate degree, because I was sick and could not work full time. I had been unwell for years and working as a chef was difficult, but I never wanted give up on my life and this society. Now am trying to make a career change in order to make a better use of my strengths. I want to make the world a better place, I always have, and I encountered this idea called Effective Altruism and they recommend earning to give, so becoming a Developer is my contribution to the society as well. I get so physically and mentally excited every time I see data, charts, statistics and analytics, and I would like to be a Data Scientist one day, not because it is said to be the sexiest job in 2016. I am super excited about the future technology would bring, but am also concerned about the existential risk that Artificial Intelligence can bring, and I would like to prevent the end of the world. I am fluent in both Japanese and English, and my English is pretty great, I do not have a typical Japanese accent. 
+  I am a dedicated, hardworking and enthusiastic individual who is also a recent graduate from Makers Academy who’s ready to take a new role as a Software Developer. 
 
-Here are some serious bit:
+###Education
+##Makers Academy (January 2018 to May 2018), London, UK
+    Makers Academy is one of Europe's Leading Web Developer bootcamps. I learned all the technical skills listed below, but what I learned the most was personal development, emotional intelligence and most importantly, how amazing it is to work as a team. I feel like a grew as a person a lot more than anything else.
+- Javascript, Jasmine
+- Node.js, React
+- Ruby On Rails
+- HTML5, CSS 
+- Jquery 
+- SQL 
+- Test Driven Development 
+- Agile Methodology
+- Extreme Programming 
+- Object-oriented design 
+- version control with Git
+My final project will involve;
+-Python
+-Machine Learning
+-Tensorflow
 
-**Quick learner** - I never fail to amaze people with how quickly I learn, memorise things and commit to excellence. I taught myself and became fluent in English in just over a year, in my previous job; I excelled in pastry mass-production in PAUL UK, making products that are delivered to circa 30 branches across England, starting from a zero background in French pastry. I am currently studying computer programming online and have made significant progress in less than a year, as remarked by a specialist software developer.
+##Hokusei Gakuen University (April 2009 to March 2013), Sapporo, Japan
+- BA Hons in English Literature. My thesis was about American History and Politics, their effect on today's religious fundamentalism, politics and geography.
+- My minor was Religious Studies. I was fascinated by how human mind works and how it can shape society. I am still interested in this area but my interests have broadened to psychology, philosophy and neuroscience. I am so in love with human arts and its integral point with science, especially how human brain's cognition can be used to understand computer science. 
 
-**Attention to detail** – My previous work experiences have perfected this skill. As an interpreter and translator, accuracy and attention to detail was the key to keep the integrity of the documents and speech. In programming and as a highly proficient food producer, I am always diligent and dedicated to near perfection. As a result of my hard work and trial and error, my manager at CO-OP Sapporo remarked, “no one else can make such a beautiful piece that makes everyone want to buy.” 
+###Experience
+    As worked as a Chef/Pastry Chef for 4 years, I learned efficient communication, creativity, intense time management, performance under pressure, teamwork, decision making, attention to detail and enjoyed endless learning which I believe are transferable to software craftsmanship. 
+I’ve worked in many places, which requires good adaptation skills, and my experience includes:
+##Quaglinos London, UK  (Demi Chef de Partie)
+    Queen Elizabeth II once dined here. High volume, high end restaurant in Mayfair. 
+##Paul UK  London, UK  (Pastry Chef)
+    French bakery of nearly 130 years history. My workplace was in charge of all cake and pastry production to be dispatched to all 40 branches across the country. 
+  
+    I worked as an English-Japanese Translator/Interpreter at New Holland HFT Japan, which taught me how to interact with clients and understand their needs, and as an English Teacher/Tutor (Kids-Adults) at various companies and independently, which developed my interpersonal skills, communication, and organisation.
 
-**Organisation** – Learning independently requires a great deal organisation to ensure that I dedicate enough time to studying whilst in a full time job. As a chef, I always ensured that all the products for sale were made to a high standard. I also oversaw stock control, discount management and maintained great customer service. Keeping a timed schedule and calendar has always helped me work efficiently. As well as being a Pastry Chef in Japan, I often acted as an interpreter for English speaking customers to improve sales by overseeing the situations and organizing my time and work accordingly, quickly making decisions on different circumstances.
-
-**Leadership and Responsibility** – I have on countless occasions been left in charge of the kitchen, this involved, training new staff, opening and closing the kitchen, liaising and leading communications with other sections to ensure the smooth running of operations. I successfully managed the opening of a new branch of Donguri Bakery under pressure. I notably contributed to the sales by giving creative suggestions and ideas in store operation strategies and development of new products.
-
-## Skills
-
-#### Programming
-
-I studied Python by myself, and have been studying Ruby, HTML, CSS and JavaScript as part of the online course I was offered after being selected as a scholar. It has been difficult to stick to as I have been working full time, but over the year it has become a level where I can write some functions.
-
--Udacity Google Scholarship Challenge Front-End Developer
--Codewars
--DataCamp
--Codecademy
--Pluralsight
--MIT courseware
--Harvard CS50
-
-#### Social Media Management
-
-I used to make YouTube videos so I know how to use YouTube creator studio, and now I am a part of the YouTube number 1 AI Safety channel <a href="https://www.youtube.com/c/robertmilesai">Robert Miles AI</a>. I do not make videos but I am a Social Media Manager and I keep track of media performance and post to advertise the videos in order to attract audience and for high performance.
-
-
-## Education
-
-#### Makers Academy (February 2018 to May 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Hokusei Gakuen University (April 2009 to March 2013)
-
-- English Literature, my thesis was about American History and Politics, their effect on today's religious fundamentalism
-- Grade A
-- My minor was Religious Studies. I was fascinated by how human mind works and how it can shape society. I am still interested in this area but my interests have broaden to psychology, philosophy and neuroscience. I am so in love with human arts and its integral point with science, especially how human brain's cognition can be used to understand computer science. I am happy to talk about this area for hours.
-
-#### Hokkaido Sapporo Kita High School (April 2005 March 2008)
--English, Japanese, History, Maths, Science and Arts
-
-## Experience
-
-**The Pudding Pantry** (May 2017 to December 2017)    
-*Chef De Partie*  
-**Paul UK** (October 2016 to January 2017)   
-*Pastry Chef*  
-(...They might seem irrelavant, but this is where I learned so much about worknig as a team and how to communicate efficiently and keep hermony.)
-## Hobbies
-Baking and Cooking (obviously), Cycling, Swimming, Singing, Painting, Educating myself, Spending hours on the internet (good example is: start learning how Baysian works and end up looking at percentages of eye/hair colours depending on regions)
+###Five things that are special about me
+I make things happen.
+	You know those moments where you think ‘it would be nice if there is xyz,’? Many people would stop there, but I always take action to make it possible. At Makers Academy, I found that people in previous cohorts who did Machine Learning for their final project started learning it on their first week of the final project. I saw a room for an improvement there, and started organising a study group from 4 weeks before the project starts for those who are keen. It’s fascinating and very rewarding to see people with similar interests can gather and study together and help each other to get the most out of our course especially when it’s something you organised by yourself.
+I have got an empathetic leadership style.
+	A lot of people can take leadership, but very few of them can be an empathetic leader. I’d like to think of myself as a facilitator who lets communication happen smoothly amongst the team, and helps each team member understand each other. I once saw a significant tension in a group caused by a gap in level of understanding; one was irritated for debugging and the other was frustrated for being left behind. I suggested having a conversation as a team to improve the situation, and the team became less tense. Empathetic leaders don’t necessarily focus on goals, but on people and their situations, and help people communicate and make harmony.
+I am driven for learning and developing.
+	I have studied programming by myself for a year before joining Makers Academy. I’m always keen to gain knowledge in a broad range of topics.  As I previously stated, I’m eager to learn AI and Machine Learning; I have been helping my friend making his YouTube channel for AI Safety. It’s been over a year since the channel was established, and we managed to gain >22k subscribers. Not only have I learnt social media management but also AI and its concerns.
+I contribute by honest communication.
+	I value honesty and authenticity, and being clear. One coach once thanked me after the class for my contribution saying that it was very valuable for me to point out that X is not the only approach to reach the solution but Y is also plausible. He said it was beneficial as he was previously very fixated on X. By throwing in Y as an option, I succeeded in adding a variety to solve one problem. It takes courage to raise your hand to say “I don’t think it’s necessarily true” in front of a coach and a bunch of classmates, but I believe it’s valuable to have someone honest and brave enough in an organisation to add diversity in opinions and to avoid rushing into one set solution.
+I am serious about making the world better. 
+	One of the biggest reasons I’ve decided to change career is my encounter with Effective Altruism. I’ve always taken world peace seriously but EA showed me there are lots of other smart people out there who genuinely work on it. I would like to earn more money to give part of my income to the most effective charities, and also ideally in the future, I would like to be a part of AI Safety movement to avoid existential risk. I’ve been in the community for a while but once I get a job I’d like to engage with that  a lot more starting with making a pledge of 10% donation.
+ Nice fact: I’ve been told that my laugh cheers people up by many people in different occasions! :)
