@@ -7,7 +7,7 @@
 ## Education
 
 ### Makers Academy (January 2018 to May 2018), London, UK
-    Makers Academy is one of Europe's Leading Web Developer bootcamps. I learned all the technical skills listed below, but what I learned the most was personal development, emotional intelligence and most importantly, how amazing it is to work as a team. I feel like a grew as a person a lot more than anything else.
+   Makers Academy is one of Europe's Leading Web Developer bootcamps. I learned all the technical skills listed below, but what I learned the most was personal development, emotional intelligence and most importantly, how amazing it is to work as a team. I feel like a grew as a person a lot more than anything else.
 - Javascript, Jasmine
 - Node.js, React
 - Ruby On Rails
@@ -31,9 +31,9 @@ My final project will involve;
 ## Experience
   As worked as a Chef/Pastry Chef for 4 years, I learned efficient communication, creativity, intense time management, performance under pressure, teamwork, decision making, attention to detail and enjoyed endless learning which I believe are transferable to software craftsmanship. 
 I’ve worked in many places, which requires good adaptation skills, and my experience includes:
-## Quaglinos London, UK  (Demi Chef de Partie)
+### Quaglinos London, UK  (Demi Chef de Partie)
    Queen Elizabeth II once dined here. High volume, high end restaurant in Mayfair. 
-## Paul UK  London, UK  (Pastry Chef)
+### Paul UK  London, UK  (Pastry Chef)
    French bakery of nearly 130 years history. My workplace was in charge of all cake and pastry production to be dispatched to all 40 branches across the country. 
   
    I worked as an English-Japanese Translator/Interpreter at New Holland HFT Japan, which taught me how to interact with clients and understand their needs, and as an English Teacher/Tutor (Kids-Adults) at various companies and independently, which developed my interpersonal skills, communication, and organisation.
@@ -49,4 +49,5 @@ I’ve worked in many places, which requires good adaptation skills, and my expe
   I value honesty and authenticity, and being clear. One coach once thanked me after the class for my contribution saying that it was very valuable for me to point out that X is not the only approach to reach the solution but Y is also plausible. He said it was beneficial as he was previously very fixated on X. By throwing in Y as an option, I succeeded in adding a variety to solve one problem. It takes courage to raise your hand to say “I don’t think it’s necessarily true” in front of a coach and a bunch of classmates, but I believe it’s valuable to have someone honest and brave enough in an organisation to add diversity in opinions and to avoid rushing into one set solution.
 ### 5. I am serious about making the world better. 
   One of the biggest reasons I’ve decided to change career is my encounter with Effective Altruism. I’ve always taken world peace seriously but EA showed me there are lots of other smart people out there who genuinely work on it. I would like to earn more money to give part of my income to the most effective charities, and also ideally in the future, I would like to be a part of AI Safety movement to avoid existential risk. I’ve been in the community for a while but once I get a job I’d like to engage with that  a lot more starting with making a pledge of 10% donation.
-### Nice fact: I’ve been told that my laugh cheers people up by many people in different occasions! :)
+
+    Nice fact: I’ve been told that my laugh cheers people up by many people in different occasions! :)
