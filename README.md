@@ -6,10 +6,10 @@
   
 ## Some of my projects
 ### Group Projects
-<a href="https://github.com/chiakimz/EarthBnB">AirBnB clone</a> || <a href="https://github.com/Hemesh-Unka/acebook-pinkfish">Facebook clone</a> || <a href="https://github.com/chiakimz/FinalProjectML'>ML final project (coming soon!)</a>
+<a href="https://github.com/chiakimz/EarthBnB">AirBnB clone</a> || <a href="https://github.com/Hemesh-Unka/acebook-pinkfish">Facebook clone</a> || <a href="https://github.com/chiakimz/FinalProjectML">ML final project (coming soon!)</a>
 
 ### Personal Projects
-<a href="https://github.com/chiakimz/TicTacToe">TicTacToe</a> || <a href="https://github.com/chiakimz/takeaway-challenge">takeaway app</a> || <a href="https://github.com/chiakimz/bowling-challenge/blob/master/README.md">Bowling score card app</a>
+<a href="https://github.com/chiakimz/TicTacToe">TicTacToe</a> || <a href="https://github.com/chiakimz/takeaway-challenge">takeaway app</a> || <a href="https://github.com/chiakimz/bowling-challenge/blob/master/README.md">Bowling score card app</a> || <a href="https://github.com/chiakimz/bank">Extremely dull bank app</a>
 ## Education
 ### Makers Academy (January 2018 to May 2018), London, UK
    Makers Academy is one of Europe's Leading Web Developer bootcamps. I learned all the technical skills listed below, but what I learned the most was personal development, emotional intelligence and most importantly, how amazing it is to work as a team. I feel like a grew as a person a lot more than anything else.
