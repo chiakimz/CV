@@ -5,11 +5,13 @@
   I am a dedicated, hardworking and enthusiastic individual who is also a recent graduate from Makers Academy who’s ready to take a new role as a Software Developer. 
   
 ## Some of my projects
-### Group Projects
-<a href="https://github.com/chiakimz/EarthBnB">AirBnB clone</a> || <a href="https://github.com/Hemesh-Unka/acebook-pinkfish">Facebook clone</a> || <a href="https://github.com/chiakimz/FinalProjectML">ML final project (coming soon!)</a>
 
-### Personal Projects
-<a href="https://github.com/chiakimz/TicTacToe">TicTacToe</a> || <a href="https://github.com/chiakimz/takeaway-challenge">takeaway app</a> || <a href="https://github.com/chiakimz/bowling-challenge/blob/master/README.md">Bowling score card app</a> || <a href="https://github.com/chiakimz/bank">Extremely dull bank app</a>
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Takeaway](https://github.com/chiakimz/takeaway-challenge) | Simple commandline app that utilises text app Twillio to send you an actual text with estimated delivery time! | Ruby, Rspec, Twillio |
+| [EarthBnB](https://github.com/chiakimz/EarthBnB) | An AirBnB clone, our first group project to make a full stack app. | Node.js, Express, Jasmine, PosgreSQL|
+|[ML Final Project](https://github.com/chiakimz/FinalProjectML)| *Coming Soon!* We teach ourselves ML in a week to showcase several models including supervised/unsupervised learning, and reenforcement learning. |Python, Tensorflow, React, Docker|
+
 ## Education
 ### Makers Academy (January 2018 to May 2018), London, UK
    Makers Academy is one of Europe's Leading Web Developer bootcamps. I learned all the technical skills listed below, but what I learned the most was personal development, emotional intelligence and most importantly, how amazing it is to work as a team. I feel like a grew as a person a lot more than anything else.
