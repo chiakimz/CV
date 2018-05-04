@@ -9,7 +9,7 @@
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Takeaway](https://github.com/chiakimz/takeaway-challenge) | Simple commandline app that utilises text app Twillio to send you an actual text with estimated delivery time! | Ruby, Rspec, Twillio |
-| [EarthBnB](https://github.com/chiakimz/EarthBnB) | An AirBnB clone, our first group project to make a full stack app. | Node.js, Express, Jasmine, PosgreSQL|
+| [EarthBnB](https://github.com/chiakimz/EarthBnB) | An AirBnB clone, our first group project to make a full stack app. | Node.js, Jasmine, PosgreSQL|
 |[ML Final Project](https://github.com/chiakimz/FinalProjectML)| *Coming Soon!* We teach ourselves ML in a week to showcase several models including supervised/unsupervised learning, and reenforcement learning. |Python, Tensorflow, React, Docker|
 
 ## Education
